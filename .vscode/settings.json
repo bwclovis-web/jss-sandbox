@@ -1,0 +1,33 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.semi": false,
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  // show eslint icon at bottom toolbar
+  "eslint.alwaysShowStatus": true,
+  // tell the ESLint plugin to run on save
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "cSpell.words": [
+    "groq",
+    "hctdstudio",
+    "hotspot",
+    "linebreak",
+    "lqip",
+    "parens",
+    "portabletext",
+    "Schnozzberry",
+    "sitebanner",
+    "sitecore",
+    "Snozzberry",
+    "tiktok"
+  ]
+}
